@@ -23,7 +23,7 @@
 
 <br>
 
-> **Overview:** WE Workshop Downloader is a simple and fast utility that allows you to download any animated background from the Steam Workshop. Just paste the link of the wallpaper you like, and the software will download the files directly, normally, and at high speed, ready to be used locally.
+> **Overview:** T.O.N.S Workshop Downloader is a simple and fast utility that allows you to download any animated background from the Steam Workshop. Just paste the link of the wallpaper you like, and the software will download the files directly, normally, and at high speed, ready to be used locally.
 
 ---
 
