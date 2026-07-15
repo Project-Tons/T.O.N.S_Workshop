@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- Small, subtle note for users of unofficial versions -->
-  <sub><i>Note: This utility is designed to assist users who utilize unofficial or cracked versions of Wallpaper Engine and lack direct access to the Steam Workshop.</i></sub>
+  <sub><i>Note: This utility is designed to assist users who utilize unofficial or cracked versions of WallEngine and lack direct access to the Steam Workshop.</i></sub>
   <br><br>
 
   <!-- App Logo / Icon -->
