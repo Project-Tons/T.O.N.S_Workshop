@@ -9,7 +9,7 @@
   
   <h1 align="center">T.O.N.S Workshop Downloader</h1>
 
-  <b>Fast & Easy Steam Workshop Downloader for Wallpaper Engine</b>
+  <b>Fast & Easy Steam Workshop Downloader for WallEngine</b>
   <br>
   <i>Easily grab any wallpaper link you like and download it directly and fast.</i>
 
