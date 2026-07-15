@@ -7,7 +7,7 @@
   <!-- App Logo / Icon -->
   <img src="https://img.icons8.com/fluency/144/download-from-cloud.png" alt="WE Workshop Downloader Logo" width="110">
   
-  <h1 align="center">WE Workshop Downloader</h1>
+  <h1 align="center">T.O.N.S Workshop Downloader</h1>
 
   <b>Fast & Easy Steam Workshop Downloader for Wallpaper Engine</b>
   <br>
