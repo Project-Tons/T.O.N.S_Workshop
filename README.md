@@ -43,7 +43,7 @@
 | **OS** | Windows 10 | Windows 11 |
 | **Architecture** | x64 | x64 |
 | **Network** | Active Internet connection | Active Broadband connection |
-| **Storage** | 50 MB available space | 200+ MB (Depending on wallpapers) |
+| **Storage** | 150 MB available space | 250+ MB (Depending on wallpapers) |
 
 ---
 
