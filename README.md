@@ -10,9 +10,9 @@
 
   <br><br>
 
-  <a href="#"><img src="blob:https://web.telegram.org/1b97e830-ed3d-4484-92e6-227f9aec2815?style=for-the-badge&logo=windows" alt="Platform"></a>
-  <a href="#"><img src="blob:https://web.telegram.org/b702904d-cdc1-4902-87f2-07dbe7544842?style=for-the-badge" alt="Downloads"></a>
-  <a href="#"><img src="blob:https://web.telegram.org/a0faac5a-2f46-4021-861b-5ec38a1ac3c1?style=for-the-badge" alt="Architecture"></a>
+  <a href="#"><img src="https://img.shields.io/badge/Platform-Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Platform"></a>
+  <a href="#"><img src="https://img.shields.io/badge/Downloads-Latest-brightgreen?style=for-the-badge" alt="Downloads"></a>
+  <a href="#"><img src="https://img.shields.io/badge/Architecture-x64-ff69b4?style=for-the-badge" alt="Architecture"></a>
 </div>
 
 <br>
