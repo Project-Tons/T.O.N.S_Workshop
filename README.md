@@ -10,10 +10,13 @@
 
   <br><br>
 
-  <a href="#"><img src="https://img.shields.io/badge/Platform-Windows_10%20%7C%2011-0078D4.svg?style=for-the-badge&logo=windows" alt="Platform"></a>
-  <a href="#"><img src="https://img.shields.io/badge/Utility-Media_Retrieval-success.svg?style=for-the-badge" alt="Downloads"></a>
-  <a href="#"><img src="https://img.shields.io/badge/Architecture-x64-black.svg?style=for-the-badge" alt="Architecture"></a>
-
+  <a href="#"><img src="blob:https://web.telegram.org/1b97e830-ed3d-4484-92e6-227f9aec2815?style=for-the-badge&logo=windows" alt="Platform"></a>
+  <a href="#"><img src="blob:https://web.telegram.org/b702904d-cdc1-4902-87f2-07dbe7544842?style=for-the-badge" alt="Downloads"></a>
+  <a href="#"><img src="blob:https://web.telegram.org/a0faac5a-2f46-4021-861b-5ec38a1ac3c1?style=for-the-badge" alt="Architecture"></a>
+  <a href="#"><img src="blob:blob:https://web.telegram.org/8f52a1ea-3d0f-4eb0-bed6-47371a629047?style=for-the-badge" alt="Architecture"></a>
+  <a href="#"><img src="blob:blob:https://web.telegram.org/f7d9007d-1b42-447a-ac96-e720a4f6cad6?style=for-the-badge" alt="Architecture"></a>
+  <a href="#"><img src="blob:blob:https://web.telegram.org/0bf8dc6d-fbfa-47ad-a9ae-342e9c38b3a1?style=for-the-badge" alt="Architecture"></a>
+  <a href="#"><img src="blob:blob:https://web.telegram.org/342f4f80-df77-4704-b60b-bb11979b7333?style=for-the-badge" alt="Architecture"></a>
 </div>
 
 <br>
