@@ -57,9 +57,9 @@
 <div align="center">
   <h3>• Application Screenshots •</h3>
   <br>
-  <img src="https://media.discordapp.net/attachments/1253803067175075882/1526888016159707306/1.png?ex=6a58a8c7&is=6a575747&hm=5e644fd869d50c1e89473fadcaed512f3620341a03a9dc7d3d3dd60112af1b3b&=&format=webp&quality=lossless&width=526&height=441" alt="Main Interface" width="100%">
+  <img src="https://i.imgur.com/8layHiK.png?ex=6a58a8c7&is=6a575747&hm=5e644fd869d50c1e89473fadcaed512f3620341a03a9dc7d3d3dd60112af1b3b&=&format=webp&quality=lossless&width=526&height=441" alt="Main Interface" width="100%">
   <br><br>
-  <img src="https://media.discordapp.net/attachments/1253803067175075882/1526888016654893097/2.png?ex=6a58a8c7&is=6a575747&hm=2b4b086145ff68df9e4aba82210d3ef5c2f093bcea63a1597b76e5f988e5c699&=&format=webp&quality=lossless&width=540&height=441" alt="Downloading State" width="100%">
+  <img src="https://i.imgur.com/DvOAxc0.png?ex=6a58a8c7&is=6a575747&hm=2b4b086145ff68df9e4aba82210d3ef5c2f093bcea63a1597b76e5f988e5c699&=&format=webp&quality=lossless&width=540&height=441" alt="Downloading State" width="100%">
   <br><br>
-  <img src="https://media.discordapp.net/attachments/1253803067175075882/1526888017057288213/3.png?ex=6a58a8c7&is=6a575747&hm=903f8df2e0fd839fd817e4480a88cd30156f7780a95e3d8317de4174ba12ef72&=&format=webp&quality=lossless&width=797&height=441" alt="Finished Output" width="100%">
+  <img src="https://i.imgur.com/usn2mPQ.png?ex=6a58a8c7&is=6a575747&hm=903f8df2e0fd839fd817e4480a88cd30156f7780a95e3d8317de4174ba12ef72&=&format=webp&quality=lossless&width=797&height=441" alt="Finished Output" width="100%">
 </div>
