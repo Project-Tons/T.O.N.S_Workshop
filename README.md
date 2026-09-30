@@ -53,17 +53,15 @@
 <div align="center">
   <h3>• Application Screenshots •</h3>
   <br>
-  <img src="https://i.imgur.com/8layHiK.png?ex=6a58a8c7&is=6a575747&hm=5e644fd869d50c1e89473fadcaed512f3620341a03a9dc7d3d3dd60112af1b3b&=&format=webp&quality=lossless&width=526&height=441" alt="Main Interface" width="100%">
+  <img src="https://i.imgur.com/FYp8wjA.png?ex=6a58a8c7&is=6a575747&hm=5e644fd869d50c1e89473fadcaed512f3620341a03a9dc7d3d3dd60112af1b3b&=&format=webp&quality=lossless&width=526&height=441" alt="Main Interface" width="100%">
   <br><br>
-  <img src="https://i.imgur.com/DvOAxc0.png?ex=6a58a8c7&is=6a575747&hm=2b4b086145ff68df9e4aba82210d3ef5c2f093bcea63a1597b76e5f988e5c699&=&format=webp&quality=lossless&width=540&height=441" alt="Downloading State" width="100%">
+  <img src="https://i.imgur.com/5b3cqog.png?ex=6a58a8c7&is=6a575747&hm=2b4b086145ff68df9e4aba82210d3ef5c2f093bcea63a1597b76e5f988e5c699&=&format=webp&quality=lossless&width=540&height=441" alt="Downloading State" width="100%">
   <br><br>
-  <img src="https://i.imgur.com/usn2mPQ.png?ex=6a58a8c7&is=6a575747&hm=903f8df2e0fd839fd817e4480a88cd30156f7780a95e3d8317de4174ba12ef72&=&format=webp&quality=lossless&width=797&height=441" alt="Finished Output" width="100%">
+  <img src="https://i.imgur.com/ZosmDuk.png?ex=6a58a8c7&is=6a575747&hm=903f8df2e0fd839fd817e4480a88cd30156f7780a95e3d8317de4174ba12ef72&=&format=webp&quality=lossless&width=797&height=441" alt="Finished Output" width="100%">
   <br><br>
-  <img src="https://i.imgur.com/9SfpmpF.png?ex=6a58a8c7&is=6a575747&hm=903f8df2e0fd839fd817e4480a88cd30156f7780a95e3d8317de4174ba12ef72&=&format=webp&quality=lossless&width=797&height=441" alt="Finished Output" width="100%">
+  <img src="https://i.imgur.com/a9MeWcf.png?ex=6a58a8c7&is=6a575747&hm=903f8df2e0fd839fd817e4480a88cd30156f7780a95e3d8317de4174ba12ef72&=&format=webp&quality=lossless&width=797&height=441" alt="Finished Output" width="100%">
   <br><br>
-  <img src="https://i.imgur.com/LoHWQXE.png?ex=6a58a8c7&is=6a575747&hm=903f8df2e0fd839fd817e4480a88cd30156f7780a95e3d8317de4174ba12ef72&=&format=webp&quality=lossless&width=797&height=441" alt="Finished Output" width="100%">
+  <img src="https://i.imgur.com/9aR0UvS.png?ex=6a58a8c7&is=6a575747&hm=903f8df2e0fd839fd817e4480a88cd30156f7780a95e3d8317de4174ba12ef72&=&format=webp&quality=lossless&width=797&height=441" alt="Finished Output" width="100%">
   <br><br>
-  <img src="https://i.imgur.com/qyAoBJd.png?ex=6a58a8c7&is=6a575747&hm=903f8df2e0fd839fd817e4480a88cd30156f7780a95e3d8317de4174ba12ef72&=&format=webp&quality=lossless&width=797&height=441" alt="Finished Output" width="100%">
-  <br><br>
-  <img src="https://i.imgur.com/vhkzaaS.png?ex=6a58a8c7&is=6a575747&hm=903f8df2e0fd839fd817e4480a88cd30156f7780a95e3d8317de4174ba12ef72&=&format=webp&quality=lossless&width=797&height=441" alt="Finished Output" width="100%">
+  <img src="https://i.imgur.com/FGqCvgO.png?ex=6a58a8c7&is=6a575747&hm=903f8df2e0fd839fd817e4480a88cd30156f7780a95e3d8317de4174ba12ef72&=&format=webp&quality=lossless&width=797&height=441" alt="Finished Output" width="100%">
 </div>
