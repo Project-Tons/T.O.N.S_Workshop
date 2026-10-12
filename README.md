@@ -1,8 +1,12 @@
 <div align="center">
 
-<img src="./assets/banner.svg" width="100%" alt="T.O.N.S Asset Retriever">
+<img src="./assets/logo.svg" width="150" alt="T.O.N.S Asset Retriever logo">
 
-<img src="./assets/typing.svg" width="650" alt="Paste a media URL, download public assets, build your offline library">
+<h1 align="center">T.O.N.S Asset Retriever</h1>
+
+<b>Media Retrieval Utility for Local Environments</b>
+<br>
+<i>An open-source network utility for parsing and downloading public media assets via URLs.</i>
 
 <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f680/512.gif" width="36" height="36" align="absmiddle"> <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/2728/512.gif" width="36" height="36" align="absmiddle"> <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/26a1/512.gif" width="36" height="36" align="absmiddle"> <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f525/512.gif" width="36" height="36" align="absmiddle"> <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f31f/512.gif" width="36" height="36" align="absmiddle"> <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4bb/512.gif" width="36" height="36" align="absmiddle"> <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f680/512.gif" width="36" height="36" align="absmiddle">
 
