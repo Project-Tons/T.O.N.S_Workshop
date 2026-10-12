@@ -73,7 +73,7 @@ and securely downloads the matching public media assets for offline use in local
 <br><br>
 
 <img src="https://i.imgur.com/Ad3GvXS.png?ex=6a58a8c7&is=6a575747&hm=903f8df2e0fd839fd817e4480a88cd30156f7780a95e3d8317de4174ba12ef72&=&format=webp&quality=lossless&width=797&height=441" alt="Finished Output" width="85%">
-<br><sub><b>3. Finished Output</b></sub>
+<br><sub><b>3. Store WorkShop</b></sub>
 <br><br>
 
 <img src="https://i.imgur.com/FWvod5z.png?ex=6a58a8c7&is=6a575747&hm=903f8df2e0fd839fd817e4480a88cd30156f7780a95e3d8317de4174ba12ef72&=&format=webp&quality=lossless&width=797&height=441" alt="Finished Output" width="85%">
