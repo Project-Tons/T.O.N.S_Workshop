@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/logo.svg?v=2" width="130" alt="T.O.N.S Asset Retriever logo">
+<img src="./assets/logo.svg?v=3" width="130" alt="T.O.N.S Asset Retriever logo">
 
 <h1 align="center">T.O.N.S Asset Retriever</h1>
 
@@ -10,19 +10,19 @@
 
 <br><br>
 
-<a href="https://github.com/Project-Tons/T.O.N.S_Workshop/releases/latest"><img src="./assets/download.svg?v=2" width="260" alt="Download Latest Release"></a>
+<a href="https://github.com/Project-Tons/T.O.N.S_Workshop/releases/latest"><img src="./assets/download.svg?v=3" width="260" alt="Download Latest Release"></a>
 
 <br><br>
 
-<img src="https://img.shields.io/badge/Platform-Windows_10_%7C_11-0078D6?style=flat-square&logo=windows&logoColor=white" alt="Platform">
-<img src="https://img.shields.io/badge/Architecture-x64-24292f?style=flat-square" alt="Architecture">
-<img src="https://img.shields.io/badge/Open_Source-Yes-2ea44f?style=flat-square" alt="Open Source">
+<img src="https://img.shields.io/badge/Platform-Windows_10_%7C_11-7c3aed?style=flat-square&logo=windows&logoColor=white" alt="Platform">
+<img src="https://img.shields.io/badge/Architecture-x64-1f1b2e?style=flat-square" alt="Architecture">
+<img src="https://img.shields.io/badge/Open_Source-Yes-c026d3?style=flat-square" alt="Open Source">
 
 <sub><a href="#how-it-works">How it works</a> &nbsp;·&nbsp; <a href="#capabilities">Capabilities</a> &nbsp;·&nbsp; <a href="#requirements">Requirements</a> &nbsp;·&nbsp; <a href="#usage">Usage</a> &nbsp;·&nbsp; <a href="#screenshots">Screenshots</a></sub>
 
 <br><br>
 
-<img src="./assets/hero.svg?v=2" width="100%" alt="T.O.N.S Workshop app: Discover, Downloads queue and History">
+<img src="./assets/hero.svg?v=3" width="100%" alt="T.O.N.S Workshop app: Discover, Downloads queue and History">
 
 </div>
 
@@ -33,19 +33,19 @@
 ## How it works
 
 <div align="center">
-<img src="./assets/pipeline.svg?v=2" width="100%" alt="URL, Resolve, Download, Library">
+<img src="./assets/pipeline.svg?v=3" width="100%" alt="URL, Resolve, Download, Library">
 </div>
 
 ## Capabilities
 
 <table>
 <tr>
-<td width="50%" valign="top"><img src="./assets/icon-link.svg?v=2" width="48" alt=""><br><b>URL Resolution</b><br><sub>Parses provided web links to locate and retrieve specific media files.</sub></td>
-<td width="50%" valign="top"><img src="./assets/icon-extract.svg?v=2" width="48" alt=""><br><b>Direct Extraction</b><br><sub>Downloads raw asset files and packages them directly into accessible local directories.</sub></td>
+<td width="50%" valign="top"><img src="./assets/icon-link.svg?v=3" width="48" alt=""><br><b>URL Resolution</b><br><sub>Parses provided web links to locate and retrieve specific media files.</sub></td>
+<td width="50%" valign="top"><img src="./assets/icon-extract.svg?v=3" width="48" alt=""><br><b>Direct Extraction</b><br><sub>Downloads raw asset files and packages them directly into accessible local directories.</sub></td>
 </tr>
 <tr>
-<td width="50%" valign="top"><img src="./assets/icon-ui.svg?v=2" width="48" alt=""><br><b>Minimalist Interface</b><br><sub>A streamlined graphical user interface focused strictly on network input/output operations.</sub></td>
-<td width="50%" valign="top"><img src="./assets/icon-library.svg?v=2" width="48" alt=""><br><b>Local Library Management</b><br><sub>Facilitates the creation of an offline repository for desktop media files.</sub></td>
+<td width="50%" valign="top"><img src="./assets/icon-ui.svg?v=3" width="48" alt=""><br><b>Minimalist Interface</b><br><sub>A streamlined graphical user interface focused strictly on network input/output operations.</sub></td>
+<td width="50%" valign="top"><img src="./assets/icon-library.svg?v=3" width="48" alt=""><br><b>Local Library Management</b><br><sub>Facilitates the creation of an offline repository for desktop media files.</sub></td>
 </tr>
 </table>
 
@@ -61,7 +61,7 @@
 ## Usage
 
 <div align="center">
-<img src="./assets/steps.svg?v=2" width="100%" alt="Download, Extract, Launch, Retrieve">
+<img src="./assets/steps.svg?v=3" width="100%" alt="Download, Extract, Launch, Retrieve">
 </div>
 
 1. Go to the **[Releases](https://github.com/Project-Tons/T.O.N.S_Workshop/releases/latest)** page and download the latest executable binary.
@@ -85,7 +85,7 @@
 
 <br>
 
-<img src="./assets/divider.svg?v=2" width="60%" alt="">
+<img src="./assets/divider.svg?v=3" width="60%" alt="">
 
 <sub>T.O.N.S Asset Retriever &nbsp;·&nbsp; Project-Tons</sub>
 
