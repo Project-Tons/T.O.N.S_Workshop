@@ -22,7 +22,7 @@
 
 <br><br>
 
-<img src="./assets/hero.svg" width="100%" alt="T.O.N.S Asset Retriever: paste a URL, download, and save assets to your local library">
+<img src="./assets/hero.svg" width="100%" alt="T.O.N.S Workshop app: Discover, Downloads queue and History">
 
 </div>
 
